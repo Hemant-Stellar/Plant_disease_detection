@@ -1,5 +1,5 @@
 
-```
+
 # 🌿 Plant Disease Recognition System
 
 A web-based application built with **Streamlit** and **TensorFlow** to detect plant diseases from leaf images. This model classifies images into 38 categories of plant diseases using a trained Convolutional Neural Network (CNN).
@@ -49,4 +49,4 @@ streamlit run api/index.py
 ---
 
 Happy Plant Diagnosing! 🌱🔬
-```
+
